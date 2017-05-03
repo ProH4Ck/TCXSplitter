@@ -1,8 +1,7 @@
 {
   "profiles": {
     "TCXSplitter": {
-      "commandName": "Project",
-      "commandLineArgs": "\"C:\\test.tcx\""
+      "commandName": "Project"
     }
   }
 }
